@@ -1,2 +1,2 @@
-# new-project-template
- This is a folder template used for generating new projects quickly.
+# briards
+ This is a project from the book HTML/CSS.
