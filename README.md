@@ -1,2 +1,2 @@
-# briards
- This is a project from the book HTML/CSS.
+# New Project Title
+This is project was created from my new project template.
